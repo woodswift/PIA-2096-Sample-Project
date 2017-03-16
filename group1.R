@@ -1,2 +1,2 @@
 print("Hello Fengtao") # Group 1
-print("it is sosoo hard!")
+print("Hello Xiaoya and Sera") #from Group 8 
