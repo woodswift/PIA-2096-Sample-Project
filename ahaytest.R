@@ -1,1 +1,3 @@
-print("andrew")
+lenunique <- function(x) {
+  length(unique(x))
+}
