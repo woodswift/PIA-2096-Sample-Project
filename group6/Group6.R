@@ -3,3 +3,7 @@ for(n in yearlist){
   msales<-mean(sales[year==n],na.rm = T)
   print(paste("on year",n,"mean sales is", msales))
 }
+
+function(){
+
+}
